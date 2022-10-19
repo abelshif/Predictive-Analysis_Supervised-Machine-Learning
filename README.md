@@ -1,2 +1,1 @@
 # Predictive-analysis
-Grade = VG
